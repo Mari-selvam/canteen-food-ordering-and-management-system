@@ -1,5 +1,8 @@
 # Canteen Food Ordering and Management System
 
+@It's just for my college hackathon projeect
+
+
 Welcome to the Canteen Food Ordering and Management System! This system is built using Streamlit and SQLite for a simple and interactive user experience. Users can create accounts, sign in, view the food menu, and check their monthly sales data.
 
 ## Features
@@ -70,8 +73,6 @@ Feel free to contribute, report issues, or suggest improvements to make this Can
 
 
 
-# canteen-food-ordering-and-management-system
-It's just for my college hackathon projeect
 
 
 
